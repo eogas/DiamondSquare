@@ -8,3 +8,7 @@ A random seed is used for each generation, which allows for the visualization of
 * Up/Down - Increase/decrease roughness
 * Spacebar - Enable/disable rotation
 * Enter - Generate new terrain
+
+### Screenshot
+
+![terrain](http://i.imgur.com/mS5wd.png "DiamondSquare demo")
